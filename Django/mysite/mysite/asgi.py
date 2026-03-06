@@ -14,3 +14,8 @@ from django.core.asgi import get_asgi_application
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'mysite.settings')
 
 application = get_asgi_application()
+<<<<<<< HEAD:Django/mysite/mysite/asgi.py
+=======
+
+
+>>>>>>> 94a8095e87922dd792149161c5afb3a40cc2ee10:Django/mysite/asgi.py
